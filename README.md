@@ -1,16 +1,16 @@
 # The Locura Truck Series For Scrap Mechanic
-![Image of Screen](SM-Locura-E250-Chassis-Cab/icon.png?raw=true)(#)
-![Image of Screen](SM-Locura-T450-Chassis-Cab/icon.png?raw=true)(#)
-![Image of Screen](SM-Locura-T550-Chassis-Cab/icon.png?raw=true)(#)
-![Image of Screen](SM-Locura-T650-Dump-Bed/icon.png?raw=true)(#)
-![Image of Screen](SM-Locura-T650-Flat-Bed/icon.png?raw=true)(#)
-![Image of Screen](SM-Locura-T650-Rollback-Arm-Type/icon.png?raw=true)(#)
-![Image of Screen](SM-Locura-T650-Rollback-Slide-Style/icon.png?raw=true)(#)
-![Image of Screen](SM-Locura-T650-Stake-Bed/icon.png?raw=true)(#)
-![Image of Screen](SM-Locura-T750-Box-Bed/icon.png?raw=true)(#)
-![Image of Screen](SM-Locura-T750-Chassis-Cab/icon.png?raw=true)(#)
-![Image of Screen](SM-Locura-T950-Chassis-Cab/icon.png?raw=true)(#)
-![Image of Screen](SM-Locura-T950-Mobile-Base/icon.png?raw=true)(#)
+[![](SM-Locura-E250-Chassis-Cab/icon.png?raw=true)](#)
+[![](SM-Locura-T450-Chassis-Cab/icon.png?raw=true)](#)
+[![](SM-Locura-T550-Chassis-Cab/icon.png?raw=true)](#)
+[![](SM-Locura-T650-Dump-Bed/icon.png?raw=true)](#)
+[![](SM-Locura-T650-Flat-Bed/icon.png?raw=true)](#)
+[![](SM-Locura-T650-Rollback-Arm-Type/icon.png?raw=true)](#)
+[![](SM-Locura-T650-Rollback-Slide-Style/icon.png?raw=true)](#)
+[![](SM-Locura-T650-Stake-Bed/icon.png?raw=true)](#)
+[![](SM-Locura-T750-Box-Bed/icon.png?raw=true)](#)
+[![](SM-Locura-T750-Chassis-Cab/icon.png?raw=true)](#)
+[![](SM-Locura-T950-Chassis-Cab/icon.png?raw=true)](#)
+[![](SM-Locura-T950-Mobile-Base/icon.png?raw=true)](#)
 
 # Truck Series
 - E-Series: Light Duty
