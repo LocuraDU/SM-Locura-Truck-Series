@@ -13,10 +13,6 @@ This download is for the T950 Mobile Base version. Was the T750 just not heavy d
 - Flat Bed
 - Rollback (Slide Version)
 - Rollback (Arm Version)
- 
- 
-> **Note**
-> All my items are mod free. All vanilla parts with no glitches or hacks being used. All downloads have been tested in creative and survival modes. For importing workshop items to survival some pretty good youtube tutorials are available.
 
 ### Vehicle Functions
 - 1: Doors
@@ -41,3 +37,6 @@ This download is for the T950 Mobile Base version. Was the T750 just not heavy d
 
 > **Warning**
 > If you have issues getting out or want to get out faster just remove the sunroof.
+
+> **Note**
+> All my items are mod free. All vanilla parts with no glitches or hacks being used. All downloads have been tested in creative and survival modes. For importing workshop items to survival some pretty good youtube tutorials are available.
