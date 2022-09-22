@@ -29,7 +29,7 @@ The Locura T650 Flatbed offers amazing room for loads as well as lots of chest s
 ### Vehicle Storage
 - 4 - Large Chests
 - 2 - Fuel Container
-- 2 - Water Container
+- 1 - Water Container
 - 1 - Battery Chest
 - 2 - Ammunition Chest
 
