@@ -1,5 +1,5 @@
 # Information
-Our smallest T-Series truck in a chassis cab configuration for all your building needs.  
+Our smallest T-Series truck the T450 in a chassis cab configuration for all your building needs.  
 
 # Preview
 ![Image of Screen](image.png?raw=true)
