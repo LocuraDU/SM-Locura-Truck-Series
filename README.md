@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/SC-0.6.5-green?style=for-the-badge&logo=steam)](#)
+[![](https://img.shields.io/badge/SC-0.6.5-green?style=for-the-badge&logo=steam)](https://store.steampowered.com/app/387990/Scrap_Mechanic/)
 [![](https://img.shields.io/badge/Maintained-YES-green?style=for-the-badge)](#)
 
 [![](https://img.shields.io/github/issues/locuradu/SM-Locura-Truck-Series?style=flat-square&label=ISSUES)](#)
