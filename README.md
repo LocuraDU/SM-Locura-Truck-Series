@@ -33,7 +33,7 @@
  | Truck  | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #0 |
  | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
  | E250-Chassis-Cab | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
- | T450-Chassis-Cab | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
+ | T450-Chassis-Cab | Doors | Hood | Horn | Main Lights | AUX Lights | N/A | N/A | N/A | N/A | N/A |
  | T550-Chassis-Cab | Doors | Hood | Horn | Main Lights | AUX Lights | Not Used | Not Used | Not Used | Not Used | Not Used |
  | T650-Dump-Bed | Doors | Hood | Horn | Main Lights | AUX Lights | Cargo Lights | Lift Bed | N/A | N/A | N/A |
  | T650-Flat-Bed | Doors | Hood | Horn | Main Lights | AUX Lights | Cargo Lights | Not Used | Not Used | Not Used | Not Used |
