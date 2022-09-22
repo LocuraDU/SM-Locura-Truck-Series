@@ -29,13 +29,29 @@
 - E-Series: Light Duty
 - T-Series: Heavy Duty
 
+# Truck Storage Capacity
+ | Truck  | [![](images/BatteryContainer.png)](#) | [![](images/ChemicalContainer.png)](#) | [![](images/Fertilizer_Container.png)](#) | [![](images/GasContainer.png)](#) | [![](images/WaterContainer.png)](#) | [![](images/LargeChest.png)](#) | [![](images/Potato_Ammo_Container.png)](#) | [![](images/Seed_Container.png)](#) |
+ | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+ | E250-Chassis-Cab |  |  |  | 2 |  | 1 |  |  |
+ | T450-Chassis-Cab |  |  |  | 2 |  | 2 |  |  |
+ | T550-Chassis-Cab |  |  |  | 2 |  | 2 |  |  |
+ | T650-Dump-Bed |  |  |  | 2 |  | 4 |  |  |
+ | T650-Flat-Bed | 1 |  |  | 2 | 1 | 4 | 2 |  |
+ | T650-Rollback-Arm-Type |  |  |  | 2 |  | 4 |  |  |
+ | T650-Rollback-Slide-Style |  |  |  | 2 |  | 4 |  |  |
+ | T650-Stake-Bed |  |  |  | 2 | 1 | 4 | 1 |  |
+ | T750-Box-Bed |  |  |  | 2 |  | 4 |  |  |
+ | T750-Chassis-Cab |  |  |  | 2 |  | 4 |  |  |
+ | T950-Chassis-Cab |  |  |  | 2 |  | 4 |  |  |
+ | T950-Mobile-Base |  |  |  | 2 |  | 4 | 2 |  |
+
 # Truck Function Keys
  | Truck  | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #0 |
  | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
- | E250-Chassis-Cab | Horn | Main Lights | AUX Lights | Radio | Hood | N/A | N/A | N/A | N/A | N/A |
- | T450-Chassis-Cab | Doors | Hood | Horn | Main Lights | AUX Lights | N/A | N/A | N/A | N/A | N/A |
+ | E250-Chassis-Cab | Horn | Main Lights | AUX Lights | Radio | Hood | Not Used | Not Used | Not Used | Not Used | Not Used |
+ | T450-Chassis-Cab | Doors | Hood | Horn | Main Lights | AUX Lights | Not Used | Not Used | Not Used | Not Used | Not Used |
  | T550-Chassis-Cab | Doors | Hood | Horn | Main Lights | AUX Lights | Not Used | Not Used | Not Used | Not Used | Not Used |
- | T650-Dump-Bed | Doors | Hood | Horn | Main Lights | AUX Lights | Cargo Lights | Lift Bed | N/A | N/A | N/A |
+ | T650-Dump-Bed | Doors | Hood | Horn | Main Lights | AUX Lights | Cargo Lights | Lift Bed | Not Used | Not Used | Not Used |
  | T650-Flat-Bed | Doors | Hood | Horn | Main Lights | AUX Lights | Cargo Lights | Not Used | Not Used | Not Used | Not Used |
  | T650-Rollback-Arm-Type | Doors | Hood | Horn | Main Lights | AUX Lights | Cargo Lights | Bed Extend | Not Used | Not Used | Not Used |
  | T650-Rollback-Slide-Style | Doors | Hood | Horn | Main Lights | AUX Lights | Cargo Lights | Loading Support | Bed Extend | Not Used | Not Used |
