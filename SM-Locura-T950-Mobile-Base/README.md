@@ -1,5 +1,5 @@
 # Information
-This download is for the T950 Mobile Base version. Was the T750 just not heavy duty enough for you? The T950 is the same awesome truck as the T750 but with much more loading power. This version comes with a large utility on the back for your mobile base. Rear suspension is a live axle set up with quad offroad suspension on each main axle. Load axle is a dual suspension setup. Driver and passenger doors open as well as the hood. Load axle can be used to help level and balance the weight while parked, or used to stiffen the ride while driving.
+Now you can have your base on the go with the Locura T950 Mobile Base. Everything you need and nothing you dont. Rear suspension is a live axle set up with quad offroad suspension on each main axle. Load axle is a dual suspension setup. Driver and passenger doors open as well as the hood. Load axle can be used to help level and balance the weight while parked, or used to stiffen the ride while driving. Rear door is on a timer and will close after a few seconds after opening.   
 
 # Preview
 ![Image of Screen](image.png?raw=true)
