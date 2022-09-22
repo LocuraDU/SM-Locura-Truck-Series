@@ -40,3 +40,6 @@ Now you can have your base on the go with the Locura T950 Mobile Base. Everythin
 
 > **Note**
 > All my items are mod free. All vanilla parts with no glitches or hacks being used. All downloads have been tested in creative and survival modes. For importing workshop items to survival some pretty good youtube tutorials are available.
+
+> **Note**
+> All discussions and development takes place on GITHUB: https://github.com/LocuraDU/SM-Locura-Truck-Series
