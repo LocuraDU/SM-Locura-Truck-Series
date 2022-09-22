@@ -1,3 +1,16 @@
+[![](https://img.shields.io/badge/SC-0.6.5-green?style=for-the-badge&logo=steam)](#)
+[![](https://img.shields.io/badge/Maintained-YES-green?style=for-the-badge)](#)
+
+[![](https://img.shields.io/github/issues/locuradu/SM-Locura-Truck-Series?style=flat-square&label=ISSUES)](#)
+[![](https://img.shields.io/github/issues-closed/locuradu/SM-Locura-Truck-Series?style=flat-square&label=ISSUES)](#)
+[![](https://img.shields.io/github/watchers/locuradu/SM-Locura-Truck-Series?style=flat-square&label=WATCHERS)](#)
+[![](https://img.shields.io/github/stars/locuradu/SM-Locura-Truck-Series?style=flat-square&label=STARS)](#)
+[![](https://img.shields.io/github/forks/locuradu/SM-Locura-Truck-Series?style=flat-square&label=FORKS)](#)
+[![](https://img.shields.io/github/commit-activity/m/locuradu/SM-Locura-Truck-Series?style=flat-square&label=COMMIT%20ACTIVITY)](#)
+[![](https://img.shields.io/github/discussions/locuradu/SM-Locura-Truck-Series?label=DISCUSSIONS&style=flat-square)](#)
+[![](https://img.shields.io/github/last-commit/locuradu/SM-Locura-Truck-Series?label=LAST%20COMMIT&style=flat-square)](#)
+[![](https://img.shields.io/github/contributors/locuradu/SM-Locura-Truck-Series?label=CONTRIBUTORS&style=flat-square)](#)
+
 # The Locura Truck Series For Scrap Mechanic
 [![](SM-Locura-E250-Chassis-Cab/icon.png?raw=true)](#)
 [![](SM-Locura-T450-Chassis-Cab/icon.png?raw=true)](#)
